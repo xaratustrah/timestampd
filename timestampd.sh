@@ -1,3 +1,3 @@
 #!/bin/bash
-date >> /var/log/timestampd.log
+date >> /var/log/_timestampd.log
 
